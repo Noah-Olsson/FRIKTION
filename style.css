@@ -1,0 +1,17 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+    
+    }
+    html { 
+  background: url(LogoFRIKTION.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.IMPORTANT{
+    color: red;
+    font-family: 'Roboto Mono', monospace;
+    text-emphasis: bold;
+   
+}
